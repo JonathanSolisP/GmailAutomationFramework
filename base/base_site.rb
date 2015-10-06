@@ -20,9 +20,8 @@ class BaseSite < BrowserContainer
     @inbox_page = InboxPage.new @browser
   end
 
-  def get_browser_title
-    Watir::wait
-    @browser.title
+  def wait_until_title_equals(title)
+    Watir::Wait.until { @browser.title.include? title }
   end
 
   def close

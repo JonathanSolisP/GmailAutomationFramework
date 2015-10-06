@@ -3,7 +3,6 @@ require 'rspec'
 require 'watir-webdriver'
 require '../base/base_site'
 
-
 describe '.authenticate' do
   let (:site) { BaseSite.new}
   before { site.login_page.open }

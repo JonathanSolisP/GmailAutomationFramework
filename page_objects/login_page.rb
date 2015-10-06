@@ -32,6 +32,11 @@ class LoginPage < BrowserContainer
     error_password_not_valid_label.exists?
   end
 
+  def exists_error_username_not_valid_label
+    until error_username_not_valid_label.exists? do  end
+    error_username_not_valid_label.exists?
+  end
+
   private
   def email_input
     @browser.text_field(:id => 'Email')
@@ -50,6 +55,10 @@ class LoginPage < BrowserContainer
 
   def error_password_not_valid_label
     @browser.span(:id => 'errormsg_0_Passwd')
+  end
+
+  def error_username_not_valid_label
+    @browser.span(:id => 'errormsg_0_Email')
   end
 
 end

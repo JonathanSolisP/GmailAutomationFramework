@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0448db54-502d-4195-8826-1f793e44bfbc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/configs/base_framework_configs.rb" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/base/base_site.rb" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/driver/browser_container.rb" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/driver/browser_type.rb" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/page_objects/inbox_page.rb" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/page_objects/login_page.rb" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests/login_test_suite.rb" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/.idea/ruby test.iml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/RubymineProjects/gmail_automation_framework/configs/base_framework_configs.rb" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/configs/base_framework_configs.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/RubymineProjects/gmail_automation_framework/page_objects/login_page.rb" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/page_objects/login_page.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests/login_test_suite_spec.rb" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests/login_test_suite_spec.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/RubymineProjects/gmail_automation_framework/.idea/ruby test.iml" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/.idea/ruby test.iml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/RubymineProjects/gmail_automation_framework/.idea/workspace.xml" afterPath="$USER_HOME$/RubymineProjects/gmail_automation_framework/.idea/workspace.xml" />
     </list>
     <ignored path="ruby test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +20,17 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ruby test@_authenticate__ruby_test.coverage" NAME=".authenticate: ruby test Coverage Results" MODIFIED="1444165830451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests" MODULE_NAME="ruby test" />
+    <SUITE FILE_PATH="coverage/ruby test@google_come__ruby_test.coverage" NAME="google.come: ruby test Coverage Results" MODIFIED="1444159813598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests" MODULE_NAME="ruby test" />
+    <SUITE FILE_PATH="coverage/ruby test@gmail_com__ruby_test.coverage" NAME="gmail.com: ruby test Coverage Results" MODIFIED="1444160711311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests" MODULE_NAME="ruby test" />
     <SUITE FILE_PATH="coverage/ruby test@test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1444143624439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests" MODULE_NAME="ruby test" />
-    <SUITE FILE_PATH="coverage/ruby test@login_test_suite__1_.coverage" NAME="login_test_suite (1) Coverage Results" MODIFIED="1444152077115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests" MODULE_NAME="ruby test" />
+    <SUITE FILE_PATH="coverage/ruby test@gmail_com_should_search_for_watir__ruby_test.coverage" NAME="gmail.com should search for watir: ruby test Coverage Results" MODIFIED="1444162175645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests" MODULE_NAME="ruby test" />
+    <SUITE FILE_PATH="coverage/ruby test@google_com__ruby_test.coverage" NAME="google.com: ruby test Coverage Results" MODIFIED="1444159671646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests" MODULE_NAME="ruby test" />
+    <SUITE FILE_PATH="coverage/ruby test@_authenticate_display_inbox_page_if_logged_in__ruby_test.coverage" NAME=".authenticate display inbox page if logged in: ruby test Coverage Results" MODIFIED="1444163275317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests" MODULE_NAME="ruby test" />
+    <SUITE FILE_PATH="coverage/ruby test@test_fail__ruby_test.coverage" NAME="test_fail: ruby test Coverage Results" MODIFIED="1444158375118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests" MODULE_NAME="ruby test" />
+    <SUITE FILE_PATH="coverage/ruby test@login_test_suite__1_.coverage" NAME="login_test_suite (1) Coverage Results" MODIFIED="1444157882002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests" MODULE_NAME="ruby test" />
+    <SUITE FILE_PATH="coverage/ruby test@google_com_should_search_for_watir__ruby_test.coverage" NAME="google.com should search for watir: ruby test Coverage Results" MODIFIED="1444159558134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests" MODULE_NAME="ruby test" />
+    <SUITE FILE_PATH="coverage/ruby test@Run_test__MyTest___ruby_test.coverage" NAME="Run test 'MyTest': ruby test Coverage Results" MODIFIED="1444158976378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests" MODULE_NAME="ruby test" />
     <SUITE FILE_PATH="coverage/ruby test@test.coverage" NAME="test Coverage Results" MODIFIED="1443624420031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/RubymineProjects/ruby test" MODULE_NAME="ruby test" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -41,11 +42,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="login_test_suite.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login_test_suite.rb" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/tests/login_test_suite.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71753246">
-              <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inbox_test_suite.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/tests/inbox_test_suite.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_test_suite_spec.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/tests/login_test_suite_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.08928572">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -55,49 +76,7 @@
         <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/page_objects/inbox_page.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="browser_container.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/driver/browser_container.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="19" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base_site.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/base/base_site.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login_page.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/page_objects/login_page.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-              <folding>
-                <element signature="e#516#577#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base_framework_configs.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/configs/base_framework_configs.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="13" column="26" selection-start-line="12" selection-start-column="4" selection-end-line="13" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -107,7 +86,59 @@
         <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/driver/browser_type.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="browser_container.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/driver/browser_container.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base_site.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/base/base_site.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_page.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/page_objects/login_page.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+              <folding>
+                <element signature="e#818#879#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base_framework_configs.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/configs/base_framework_configs.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -118,8 +149,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TestUnit Test Template" />
         <option value="Ruby Class Template" />
+        <option value="TestUnit Test Template" />
+        <option value="RSpec Test Template" />
       </list>
     </option>
   </component>
@@ -131,14 +163,18 @@
       <list>
         <option value="$USER_HOME$/RubymineProjects/ruby test/test" />
         <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests/test" />
-        <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/driver/browser_type.rb" />
         <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/base/base_test.rb" />
+        <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests/inbox_test_suite.rb" />
+        <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests/login_test.rb" />
+        <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/base/base_test_spec.rb" />
+        <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests/login_test_suite.rb" />
+        <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/driver/browser_type.rb" />
         <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/driver/browser_container.rb" />
-        <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/configs/base_framework_configs.rb" />
-        <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/page_objects/login_page.rb" />
         <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/base/base_site.rb" />
         <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/page_objects/inbox_page.rb" />
-        <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests/login_test_suite.rb" />
+        <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/configs/base_framework_configs.rb" />
+        <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/page_objects/login_page.rb" />
+        <option value="$USER_HOME$/RubymineProjects/gmail_automation_framework/tests/login_test_suite_spec.rb" />
       </list>
     </option>
   </component>
@@ -180,6 +216,16 @@
     <panes>
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ruby test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gmail_automation_framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="ruby test" />
@@ -269,53 +315,155 @@
       <recent name="C:\Users\Proyecto\RubymineProjects\gmail_automation_framework\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Ruby.login_test_suite (1)">
-    <configuration default="false" name="login_test_suite" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="RSpec..authenticate: ruby test">
+    <configuration default="false" name="google.come: ruby test" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="ruby test" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="C:\Users\Proyecto\RubymineProjects\gmail_automation_framework" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/tests" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="C:\Users\Proyecto\RubymineProjects\gmail_automation_framework\tests\login_test_suite.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/tests/login_test_suite_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="google.come" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="gmail.com should search for watir: ruby test" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="ruby test" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/tests" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/tests" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="C:\Users\Proyecto\RubymineProjects\gmail_automation_framework\tests\login_test_suite.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/tests/login_test_suite_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="gmail.com should search for watir" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
-    <configuration default="false" name="login_test_suite (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="gmail.com: ruby test" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="ruby test" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/tests" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/tests" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/tests/login_test_suite.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/tests/login_test_suite_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="gmail.com" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name=".authenticate display inbox page if logged in: ruby test" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="ruby test" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/tests" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/tests/login_test_suite_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE=".authenticate display inbox page if logged in" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name=".authenticate: ruby test" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="ruby test" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/tests" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/tests/login_test_suite_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE=".authenticate" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
@@ -429,16 +577,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.login_test_suite" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.test (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.login_test_suite (1)" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="RSpec.google.come: ruby test" />
+      <item index="1" class="java.lang.String" itemvalue="RSpec.gmail.com should search for watir: ruby test" />
+      <item index="2" class="java.lang.String" itemvalue="RSpec.gmail.com: ruby test" />
+      <item index="3" class="java.lang.String" itemvalue="RSpec..authenticate display inbox page if logged in: ruby test" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec..authenticate: ruby test" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.login_test_suite (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.test (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.login_test_suite" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="RSpec..authenticate: ruby test" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec..authenticate display inbox page if logged in: ruby test" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.gmail.com should search for watir: ruby test" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec.gmail.com: ruby test" />
+        <item index="4" class="java.lang.String" itemvalue="RSpec.google.come: ruby test" />
       </list>
     </recent_temporary>
   </component>
@@ -453,13 +605,27 @@
       <option name="number" value="Default" />
       <updated>1443621921979</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit.&#10;Structure created.">
+      <created>1444152584076</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1444152584076</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add: Rspec tests.">
+      <created>1444163992428</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1444163992428</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32878152" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33475935" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -470,7 +636,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3228181" sideWeight="0.49555555" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32834226" sideWeight="0.5044444" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32912722" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -510,6 +676,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit.&#10;Structure created." />
+    <MESSAGE value="Add: Rspec tests." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: Rspec tests." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="4" />
@@ -541,18 +712,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/driver/browser_container.rb">
+    <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="19" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="19" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/configs/base_framework_configs.rb">
+    <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/tests/inbox_test_suite.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/driver/browser_container.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -560,25 +739,23 @@
     <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/driver/browser_type.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/page_objects/login_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding>
-            <element signature="e#516#577#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/base/base_site.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/tests/login_test_suite.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -586,15 +763,33 @@
     <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/page_objects/inbox_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <caret line="13" column="26" selection-start-line="12" selection-start-column="4" selection-end-line="13" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/tests/login_test_suite.rb">
+    <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/configs/base_framework_configs.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71753246">
-          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/page_objects/login_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="e#818#879#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/RubymineProjects/gmail_automation_framework/tests/login_test_suite_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08928572">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding />
         </state>
       </provider>

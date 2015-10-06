@@ -1,14 +1,18 @@
+require 'rubygems'
+require 'rspec'
+require 'watir-webdriver'
 
 class InboxPage < BrowserContainer
   TITLE = "Inbox"
-  def is_title_displayed
-    Watir::Wait.until(timeout = 10) { @browser.text.include? TITLE }
-  end
 
   def click_compose_button
     compose_button.click
   end
 
+  def exists_compose_button
+    until compose_button.exists? do  end
+    compose_button.exists?
+  end
 
   private
   def compose_button

@@ -1,10 +1,10 @@
 
 class BrowserType
-    @@FIREFOX = 'firefox'
-    @@CHROME = 'chrome'
-    @@IE = 'ie'
+    FIREFOX = 'firefox'
+    CHROME = 'chrome'
+    IE = 'ie'
 
     def self.FIREFOX
-      @@FIREFOX
+      FIREFOX
     end
 end

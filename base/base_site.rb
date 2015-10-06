@@ -7,11 +7,22 @@ class BaseSite < BrowserContainer
   def initialize
     if $BROWSER == BrowserType.FIREFOX
       super(Watir::Browser.new)
+      @browser.window.resize_to 1920, 1080
+      @browser.window.move_to 0, 0
     end
   end
 
   def login_page
-    @login_page = LoginPage.new(@browser)
+    @login_page = LoginPage.new @browser
+  end
+
+  def inbox_page
+    @inbox_page = InboxPage.new @browser
+  end
+
+  def get_browser_title
+    Watir::wait
+    @browser.title
   end
 
   def close

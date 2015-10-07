@@ -7,4 +7,12 @@ class BrowserType
     def self.FIREFOX
       FIREFOX
     end
+
+  def self.CHROME
+      CHROME
+  end
+
+  def self.IE
+      IE
+  end
 end

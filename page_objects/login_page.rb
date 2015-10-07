@@ -52,11 +52,9 @@ class LoginPage < BrowserContainer
   def sign_in_button
     @browser.button(:id => 'signIn')
   end
-
   def error_password_not_valid_label
     @browser.span(:id => 'errormsg_0_Passwd')
   end
-
   def error_username_not_valid_label
     @browser.span(:id => 'errormsg_0_Email')
   end

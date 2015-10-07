@@ -20,6 +20,10 @@ class BaseSite < BrowserContainer
     @inbox_page = InboxPage.new @browser
   end
 
+  def send_email_page
+    @send_email_page = SendEmailPage.new @browser
+  end
+
   def wait_until_title_equals(title)
     Watir::Wait.until { @browser.title.include? title }
   end

@@ -3,17 +3,14 @@ require 'rspec'
 require 'watir-webdriver'
 require '../base/base_site'
 
-describe '.inbox' do
+describe '.send_email' do
   let (:site) { BaseSite.new}
   before { login }
   after { site.close }
+  it 'send an email' do
 
-  it 'display email when selected' do
-    inbox_page = site.inbox_page
-    inbox_page.click_email_on_list
-    expect(inbox_page.exists_back_button).to eq(true)
+    true.should == false
   end
-
 end
 
 def login
